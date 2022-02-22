@@ -7,8 +7,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Probando Kubernetes (v_1.0)</h1>
+    <h1>Probando Kubernetes (v_2.0)</h1>
 
+    <h3>Esto es una lista</h3>
     <?php
         echo "<ul>";
         for($i=0; $i<10; $i++){
